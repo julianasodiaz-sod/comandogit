@@ -1,9 +1,13 @@
 COMANDOS GIT: 
 
-Git clone: sirve para clonar la información desde mi repositorio remoto a mi repositorio local
-Git add: sirve para adicionar información
-Git commit: - m “texto alusivo a los cambios que se han realizado”
-Git push: sirve para enviar información
-Git pull: sirve para traer información
-Git log: sirve para ver los log del commit
+git clone: sirve para clonar la información desde mi repositorio remoto a mi repositorio local
+git add: sirve para adicionar información
+git commit: - m “texto alusivo a los cambios que se han realizado”
+git push: sirve para enviar información
+git pull: sirve para traer información
+git log: sirve para ver los log del commit
 
+git  branch: sirve para mirar las ramas existentes a nivel local
+git Branch -r: sirve para listar las ramas a nivel remoto
+git checkout <nombrerama>: sirve para cambiarse a la rama nombrada ej: me quiero pasar a la rama: myfirstbranch
+			 : git checkout myfirstbranch
