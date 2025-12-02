@@ -1,0 +1,9 @@
+COMANDOS GIT: 
+
+Git clone: sirve para clonar la información desde mi repositorio remoto a mi repositorio local
+Git add: sirve para adicionar información
+Git commit: - m “texto alusivo a los cambios que se han realizado”
+Git push: sirve para enviar información
+Git pull: sirve para traer información
+Git log: sirve para ver los log del commit
+
